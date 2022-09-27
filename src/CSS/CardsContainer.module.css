@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.card {
+  background-color: white;
+  border-radius: 6px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.383);
+  height: 172px;
+  margin-bottom: 16px;
+  overflow: hidden;
+  width: 161px;
+}
+
+.card div {
+  background-color: white;
+}
+
+.card p {
+  align-items: flex-end;
+  background-color: white;
+  display: flex;
+  font-size: 18px;
+  height: 63px;
+  padding: 16px 8px;
+}
+
+.card img {
+  height: 109px;
+  width: 161px;
+}

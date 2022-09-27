@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.profile-main {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+}
+
+.email {
+  margin-bottom: 60px;
+  margin-top: 20px;
+}
+
+.btn-profile {
+  background-color: rgb(238, 238, 238);
+  border: none;
+  border-radius: 12px;
+  height: 45px;
+  margin-top: 12px;
+  width: 75%;
+}
+
+.btn-profile:hover {
+  background-color: rgb(199, 199, 199);
+}

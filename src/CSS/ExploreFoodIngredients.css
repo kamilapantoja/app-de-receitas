@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  height: fit-content;
+  justify-content: center;
+  margin: 0 4vh 16vh 0;
+}
+
+.container > a {
+  background-color: rgb(235, 119, 48);
+}

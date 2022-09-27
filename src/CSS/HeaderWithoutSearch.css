@@ -1,0 +1,16 @@
+.HeaderWithoutSearch {
+  align-items: center;
+  background: white;
+  display: flex;
+  justify-content: space-around;
+  padding: 18px;
+}
+
+.HeaderWithoutSearch-profile {
+  background: white;
+}
+
+.HeaderWithoutSearch-title {
+  background: white;
+  color: #008037;
+}

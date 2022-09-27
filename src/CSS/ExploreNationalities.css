@@ -1,0 +1,52 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  height: fit-content;
+  justify-content: center;
+  margin: 0 4vh 16vh 0;
+}
+
+a {
+  background-color: rgb(235, 119, 48);
+}
+
+.container > a {
+  background-color: rgb(235, 119, 48);
+}
+
+.nationalities-images {
+  height: 109px;
+  width: 161px;
+}
+
+.card-search {
+  background-color: white;
+  border-radius: 6px;
+  box-shadow: 0 4px 4px rgb(0 0 0 / 38%);
+  height: 172px;
+  margin-bottom: 16px;
+  overflow: hidden;
+  width: 161px;
+}
+
+.card-search img {
+  height: 109px;
+  width: 161px;
+}
+
+.card-search p {
+  align-items: flex-end;
+  background-color: white;
+  font-size: 18px;
+  height: 63px;
+  padding: 16px 8px;
+}
+
+.card-search h3 {
+  align-items: flex-end;
+  background-color: white;
+  font-size: 18px;
+  height: 63px;
+  padding: 16px 8px;
+}

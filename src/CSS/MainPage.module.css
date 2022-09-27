@@ -1,0 +1,31 @@
+.card_container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-bottom: 70px;
+  width: 100%;
+}
+
+.buttons_container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 12px 0;
+  width: 100%;
+}
+
+.buttons_container button {
+  background-color: brown;
+  border: none;
+  border-radius: 5px;
+  box-shadow: rgb(91, 23, 23) 2px 3px 8px;
+  color: white;
+  font-weight: 900;
+  height: 32px;
+  margin-bottom: 10px;
+  width: 110px;
+}
+
+.buttons_container button:active {
+  background-color: rgb(118, 41, 41);
+}

@@ -1,0 +1,128 @@
+.details_page {
+  min-height: 100vh;
+  position: relative;
+}
+
+.alert_background {
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.412);
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 200;
+}
+
+.alert {
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+  height: 150px;
+  padding: 12px 24px;
+  position: relative;
+  text-align: center;
+  width: 70vw;
+}
+
+.alert h3 {
+  background-color: white;
+  font-size: 32px;
+}
+
+.alert button {
+  border: none;
+  border-radius: 5px;
+  bottom: 12px;
+  font-weight: 600;
+  padding: 8px 16px;
+  position: absolute;
+  right: 24px;
+}
+
+.video {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.fav_share img {
+  height: 25px;
+  width: 25px;
+}
+
+.titles {
+  margin: 20px 10px;
+}
+
+.text {
+  list-style: none;
+  margin: auto;
+  width: 90%;
+}
+
+.recipe_img {
+  height: 300px;
+  width: 100%;
+}
+
+.title_container {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10px;
+}
+
+.title_container button {
+  border: none;
+  margin-left: 5px;
+}
+
+.card_container {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 60px;
+  overflow-x: scroll;
+  padding-left: 4px;
+  width: 100%;
+}
+
+.start_container {
+  align-items: center;
+  background-color: white;
+  bottom: 0;
+  display: flex;
+  height: 65px;
+  justify-content: center;
+  position: fixed;
+  width: 100%;
+}
+
+.start_btn {
+  background-color: #6ce34f;
+  border: none;
+  border-radius: 5px;
+  bottom: 0;
+  font-size: 18px;
+  font-weight: 700;
+  height: 60px;
+  left: calc(50% - 75px);
+  margin: auto;
+  position: fixed;
+  width: 150px;
+}
+
+.back_arrow {
+  background-color: rgba(0, 0, 0, 0);
+  border: none;
+  left: 5px;
+  position: fixed;
+  top: 5px;
+}
+
+.back_arrow img {
+  background-color: rgba(0, 0, 0, 0);
+  height: 35px;
+
+}

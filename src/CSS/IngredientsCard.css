@@ -1,0 +1,23 @@
+.card {
+  background-color: white;
+  border-radius: 6px;
+  box-shadow: 0 4px 4px rgb(0 0 0 / 38%);
+  height: 172px;
+  margin: 12px 0  4px;
+  overflow: hidden;
+  width: 161px;
+}
+
+.card img {
+  background-color: white;
+  height: 109px;
+  width: 161px;
+}
+
+.card p {
+  align-items: flex-end;
+  background-color: white;
+  font-size: 18px;
+  height: 63px;
+  padding: 16px 8px;
+}

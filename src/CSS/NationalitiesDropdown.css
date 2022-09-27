@@ -1,0 +1,15 @@
+.nav-class {
+  display: flex;
+  justify-content: center;
+  margin: 0.7rem 0;
+  text-align: center;
+}
+
+.select-box {
+  border-radius: 2%;
+  font-family: Open Sans , Helvetica Neue , Segoe UI , Calibri , Arial , sans-serif;
+  font-size: 14px;
+  margin: 0 auto;
+  outline: none;
+  padding: 0.4rem;
+}

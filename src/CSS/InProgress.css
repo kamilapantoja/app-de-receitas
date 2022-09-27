@@ -1,0 +1,27 @@
+.finishd {
+  font-style: italic;
+  text-decoration: line-through;
+}
+
+.btnFinishdDiv {
+  align-items: center;
+  background-color: white;
+  bottom: 0;
+  display: flex;
+  height: 65px;
+  justify-content: center;
+  margin-top: 24px;
+  width: 100%;
+}
+
+.btnFinishd {
+  background-color: red;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 3px 5px 1px rgba(0, 0, 0, 0.61);
+  color: white;
+  font-size: 18px;
+  font-weight: 700;
+  height: 70%;
+  width: 45%;
+}

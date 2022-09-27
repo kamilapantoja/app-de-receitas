@@ -1,0 +1,29 @@
+.Header {
+  align-items: center;
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+}
+
+.divBtnHeader {
+  background: white;
+}
+
+.btnProfileIcon {
+  background: white;
+}
+
+.btnSearchHeader {
+  background: white;
+  border: white;
+}
+
+.btnSearchIcon {
+  background: white;
+  padding-top: 11px;
+}
+
+.tituloHeader {
+  background-color: white;
+  color: #008037;
+}

@@ -1,0 +1,43 @@
+.btn-searchBar {
+  background: brown;
+  border-radius: 20px;
+  border-width: 1px;
+  color: white;
+  font-weight: 900;
+  margin-left: 15px;
+}
+
+.container-input-searchBar {
+  background: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.input-searchBar {
+  background: white;
+  border-radius: 15px;
+  margin-bottom: 10px;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-bottom: 3px;
+  padding-left: 15px;
+  padding-top: 3px;
+}
+
+.label-searchBar {
+  background: white;
+  margin: 0 10px;
+  margin-bottom: 7px;
+}
+
+.nav-searchBar {
+  align-items: center;
+  background: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.radio-searchBar {
+  margin-left: 5px;
+}

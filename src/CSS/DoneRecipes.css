@@ -1,0 +1,85 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.done-recipes {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-Done-Recipes {
+  align-items: center;
+  background-color: white;
+  border-radius: 6px;
+  display: flex;
+  height: 143px;
+  justify-content: space-between;
+  margin: 10px 0;
+  width: 90%;
+}
+
+.img-card-done {
+  border-radius: 6px 0 0 6px;
+  height: 100%;
+}
+
+.img-card-done-link {
+  height: 100%;
+}
+
+.details-done-recipes {
+  background-color: white;
+  height: 90%;
+  width: 50%;
+}
+
+.share-btn {
+  background-color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.fWhite {
+  background-color: white;
+}
+
+.btns-filters {
+  display: flex;
+  justify-content: space-around;
+  padding: 8px;
+  width: 100%;
+}
+
+.btns-filters button {
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 16px;
+  width: 70px;
+}
+
+.categoryType {
+  color: darkgray;
+  font-size: 14px;
+}
+
+.nameDon {
+  font-weight: 700;
+  width: 85%;
+}
+
+.divShar {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+  width: 80%;
+}
+
+.tagsa {
+  color: rgb(73, 73, 73);
+  margin-left: 5px;
+}

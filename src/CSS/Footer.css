@@ -1,0 +1,29 @@
+footer {
+  align-items: center;
+  background: white;
+  background-color: white;
+  border: 1px solid red;
+  bottom: 0;
+  display: flex;
+  height: 58px;
+  justify-content: space-around;
+  position: fixed;
+  width: 100%;
+}
+
+footer > a {
+  background: white;
+
+}
+
+.drinks-icon {
+  background: white;
+}
+
+.explore-icon {
+  background: white;
+}
+
+.food-icon {
+  background: white;
+}

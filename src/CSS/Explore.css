@@ -1,0 +1,24 @@
+.explore-main {
+  align-items: center;
+  background-color: rgb(235, 119, 48);
+  display: flex;
+  flex-direction: column;
+  gap: 10vh;
+  justify-content: center;
+  margin-top: 10vh;
+}
+
+.explore-button-food {
+  background: white;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 82px;
+  width: 327px;
+}
+
+.explore-button-drinks {
+  background: white;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 82px;
+  width: 327px;
+}
+
